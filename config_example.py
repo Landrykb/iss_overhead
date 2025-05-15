@@ -1,0 +1,4 @@
+TOKEN = "TELEGRAMTOKEN"
+GOOGLE_API = "APIGOOGLE"
+
+# Change the APIs to use them
